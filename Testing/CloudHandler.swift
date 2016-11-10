@@ -17,7 +17,8 @@ public class CloudHandler: NSObject {
     }
     
     public func returnme() -> String {
-        Lockbox.setValue("naresh", forKey: "me")
-        return (Lockbox.value(forKey: "me") as? String) ?? "dsa"
+        Lockbox.setString("dsfasfas", forKey: "m")
+        
+        return Lockbox.string(forKey: "m")
     }
 }
