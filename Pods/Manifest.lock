@@ -1,0 +1,12 @@
+PODS:
+  - Lockbox (3.0.2)
+
+DEPENDENCIES:
+  - Lockbox
+
+SPEC CHECKSUMS:
+  Lockbox: bfc91deef886f9c0302e809a4d11e171c92c341b
+
+PODFILE CHECKSUM: fdc36926e90510b38cf52a1e6370ee0392b2acc4
+
+COCOAPODS: 1.1.0.rc.2
